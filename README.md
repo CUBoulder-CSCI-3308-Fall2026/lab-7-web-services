@@ -2,10 +2,6 @@
 
 # CSCI 3308 Lab 7: Web Services
 
-|                                                Course Website                                                 |                                                   Canvas                                                    |                                              Piazza                                               |
-| :-----------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------: |
-| [![Course Website](https://img.shields.io/badge/Labs-Lab8-0A4D99)](https://cuboulder-csci3308.pages.dev/docs/labs/lab7) | [![Canvas](https://img.shields.io/badge/Canvas-CSCI3308-CFB87C)](https://canvas.colorado.edu/courses/122395) | [![Piazza](https://img.shields.io/badge/-Piazza-3e7aab)](https://piazza.com/class/mekd8hla7kp73v) |
-
 ## Overview
 
 To receive credit for this lab, you MUST show your work to the TA during the lab, and push it to the github before the deadline. Please note that submissions will be due on Wednesday at 11:59 p.m. in the following week.
@@ -19,7 +15,7 @@ Please refer to the lab instructions for more details.
 
 To receive credit for this lab, you MUST check in with your TA during lab and upload your files to this repo by the deadline.
 
-Make sure to add, commit, and push your changes. You should run the following commands inside your local git directory. Make sure to double-check your submission through the browser.
+Make sure to add, commit, and push your changes to the **submission** folder in your repository. You should run the following commands inside your local git directory. Make sure to double-check your submission through the browser.
 
 In a terminal opened inside your repo:
 
@@ -28,4 +24,3 @@ git add .
 git commit -m "Add endpoint routes, handlebars partials, and pages for Lab 7"
 git push
 ```
-# lab7-web-services
