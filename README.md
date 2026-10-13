@@ -4,7 +4,7 @@
 
 ## Overview
 
-To receive credit for this lab, you MUST show your work to the TA during the lab, and push it to the github before the deadline. Please note that submissions will be due on Wednesday at 11:59 p.m. in the following week.
+To receive credit for this lab, you MUST show your work to the TA during the lab, and push it to the github before the deadline. Please note that submissions will be due on Wednesday at 11:59 p.m. in the following week. You are required to complete interview grading for this lab within the week after your submission.
 
 Please follow the instructions on the [course website](https://cuboulder-csci3308.pages.dev/docs/labs/lab7). Note that the above badges serve as quick links to the lab instructions, Course Canvas, and Course Piazza.
 
